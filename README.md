@@ -57,7 +57,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
 
 Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/liaojie1314/count.svg)](https://www.yuanyuan.blog/) visitor, Thank You!🎉🎉
 
-[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liaojie1314&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=liaojie1314&count_private=true&show_icons=true" height=145/></span>](https://home.i-xiao.space/blog/)
+[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liaojie1314&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=liaojie1314&count_private=true&show_icons=true" height=145/></span>](https://www.yuanyuan.blog/)
 
 <!--
 
