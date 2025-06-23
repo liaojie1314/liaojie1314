@@ -139,4 +139,6 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/liaojie1
 
 </td></tr></table>  
 
-[![Michel's current profile trophy](https://github-profile-trophy.vercel.app/?username=liaojie1314)](#)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=liaojie1314&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
