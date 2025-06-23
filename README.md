@@ -78,10 +78,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/liaojie1
 
 <table><tr><td valign="top" width="33%">
 
-
-
-
-#### Frontend
+### Frontend
 
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
@@ -139,4 +136,6 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/liaojie1
 
 </td></tr></table>  
 
-[![blog](https://github-profile-trophy.vercel.app/?username=liaojie1314)](https://www.yuanyuan.blog)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=liaojie1314&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
