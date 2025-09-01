@@ -55,7 +55,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
   [![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)](https://www.yuanyuan.blog/)
 
 
-Welcome!🎉🎉
+Welcome🎉🎉
 
 [<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liaojie1314&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=liaojie1314&count_private=true&show_icons=true" height=145/></span>](https://www.yuanyuan.blog/)
 
